@@ -26,6 +26,13 @@ def sorter():
     ticketnum = len(namelister)
     random.seed()
     chosen_one = random.randrange(ticketnum)
+    
+    execs = ['Sample Name', 'Sample Exec']  # replace those with real exec names
+    if namelister[chosen_one] in execs:
+        random.seed()
+        chosen_one = random.randrange(ticketnum)
+        # This is an exec blacklist
+        # it will reroll as long as an exec is chosen
     print("chosen ticket number is:",chosen_one)
     print("the winner is:",namelister[chosen_one])
     
