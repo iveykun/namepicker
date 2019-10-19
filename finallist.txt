@@ -1,0 +1,179 @@
+Annie Shen,1.5
+Kevin Yu,2
+Rory Liebmann,0.5
+Lotfi Djani,2
+Dorothea,3
+Kevin Shen,0.5
+See Wan Chan,1
+Jubi Chang,1.25
+Andrei Gabor,10
+Anson Yeh,2
+Evan Lochness,0.5
+Asghar super saiyan,0.25
+Alex Birschoff,1
+Vivian Chan ,0.1
+Vivian Chan ,1.25
+Herrinah Zhang,20
+Emuler,1
+Emuler,0.6
+Herrinah Zhang,0.85
+Emuler,0.01
+Jericho,0.1
+Jing Xan Yu,1.5
+Kimberly,5
+Michelle Jeon,2
+Tri Vinh,2
+Robert Li,0.25
+Yan Aigiarn ,0.25
+Matthew Zhu,1
+Matthew Zhu,0.25
+Sam Gilbert,2
+Anson Yeh,0.25
+Jack Ma,0.5
+Yi Qiao,3.25
+Yi Qiao,3.25
+Yi Qiao,1
+Yi Qiao,0.1
+Yi Qiao,2
+William Zhang,2
+Hao Hang,0.5
+Cedric Chan,0.5
+Oscar,2
+Zenith ,1
+Yixuan,5
+Yu Tong,1.35
+Philippe Caron,1
+Daniel Yu,2
+Simon Wang,2
+Jack Zhao,0.25
+Dominic,0.5
+Jenny He,0.02
+Patrick Jaar,0.4
+Howard Yu,0.25
+Tri Vianh,1
+Yu An Lu,1
+Emily Wu,1
+Baichao Chen,1
+Leon Qi,3
+Jiang Ning Song,4.25
+Herrinah Zhang,10
+Huining Liu,0.25
+Ghanani Santhiralingal,0.5
+Ghanani Santhiralingal,0.25
+Angelo Grandea,2
+Angelo Grandea,3
+Xinning Xu,0.25
+Xinning Xu,0.25
+Siyu Ren,0.1
+Yi Long Zhang,6.5
+Thien Hy,1
+Mona N.,1
+Jeremy Azar,0.25
+Ruiang Li,2.35
+Kevin Yu,1
+Jack Zhao,2
+Eddie Yang,2
+Nathan Ng,1
+Julian Tzanetatos,3
+Laurence Liang,0.25
+Robert Dias,0.5
+Marie-Claude,1
+Marie-Claude,1
+Ada Mocanu,0.25
+Ada Mocanu,0.25
+Leon Qi,2
+ziou mou,1.45
+Jiang Ning Song,1
+Leon Qi,1
+Mohamed Ali Saadi,2
+Kevin Yu,0.5
+Misha Yatoshiko,1
+Hyunwoo Yoon,1
+Ethan Ifrah,2
+Aarath Senaratne,1
+Hao Lin,1.1
+Thomas Aguino,0.5
+Muhammad Ali Saadi,1
+Emuler,1.6
+Alex Barbo,3
+Samuel Gilbert,0.5
+Bhromor Rahman,5
+Zuhayr,0.1
+Bowen Chen,0.5
+Samuel Gilbert,2
+Kevin Yu,10
+Leon Qi,4.3
+Eddie Du,0.05
+Jerry Tong,0.75
+Yan Aigiarn ,5
+Jack Spiratos,3.65
+Christopher Maksoud,5
+william ma,2
+william ma,5
+william ma,2
+Naomi Lurye,4.75
+Erwann,0.5
+Omar,0.25
+Sandra Gauthier,1
+Leon Qi,1
+Trevor Homps,1
+Yuan Ding,0.5
+Arthur Tin,0.5
+Louis Yoon,15
+Leon Qi,10
+Howard Yu,0.25
+Leon Qi,4
+Kevin Yu,10
+Jack Zhao,0.25
+Leon Qi,20
+Vivian Chan ,5
+Alex caloyeras,5
+Jenny He,0.65
+Max,1
+Michael,2
+Herrinah Zhang,20
+Jericho,0.15
+Jericho,0.5
+Eric Chen,1
+Yannick ,0.5
+Jiang Ning Song,0.05
+Henry Zhou,5
+Siwen,1
+Felicia,2
+ Justin Moazzamy,5
+Jonathan,2
+Jonathan,3
+Matthew Montoni,5
+Asgard,1
+Philippe Caron,0.25
+Matthew Egan,5
+Ruby,5
+Jack Sparatos,2.5
+Yu Tong,7
+Tian Yu,2
+Peng Yu,1
+Peng Yu,0.1
+YuJin Li,0.75
+Michael Greenstein,2
+Felicia Chen,2
+Elizabeth Lai,0.75
+Leon Qi,3
+Mohamed Ali SAADI,2
+Tri Vinh Truong,1
+Yu Tong,2
+Kevin Yu,1
+Yi Long Zhang,3.5
+Louis Yoon,5
+Mohamed Ali Saadi,5
+Shu Han Zheng,1
+Khanh Ton,1
+Alexandra Gareau,1
+Alexandra Gareau,1.5
+Jack Chuxiang Cai,0.25
+Miller,2
+Edgar Wang,0.25
+Jacky ,0.25
+Jia Feng Yu,1
+Ruiang Li,0.25
+Andrei Gabor,20
+Leon Qi,15
